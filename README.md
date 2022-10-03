@@ -1,11 +1,11 @@
 # Phase3-Practice-Project-1
-####Create a School Database
+## Create a School Database
 
-DESCRIPTION
+> DESCRIPTION
 
 Using SQL Server MMC, create tables and indexes for storing students, subjects and classes data.
 
-Tables:
+> Tables:
 
 The following master tables will be created:
 
