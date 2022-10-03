@@ -70,3 +70,10 @@ ALTER COLUMN Grade int NOT NULL;
 
 ALTER TABLE Subjects
 ALTER COLUMN [Subject Id] int NOT NULL;
+
+//Index creation
+
+CREATE UNIQUE NONCLUSTERED INDEX [IDX_student id] ON [dbo].[Students]
+(
+	[Student id] ASC
+)
